@@ -1,4 +1,4 @@
-# # Evidencia 1 
+# # Clinica
 
 _Evidencia Computacion Java: Sistema de administración de citas para un consultorio clínico en el cual el usuario podrá realizar las siguientes acciones: Dar de alta doctores, Dar de alta pacientes, Crear una cita con fecha y hora, ademas podrá tener control de acceso mediante un usuario administrador con su usuario y contraseña_
 
