@@ -1,4 +1,3 @@
-
 package clinica;
 public class Cita {
 
